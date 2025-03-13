@@ -1,0 +1,1515 @@
+{
+    "2348053690": {
+        "sagittal_t1": [
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/10.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/11.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/4.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/5.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/6.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/7.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/8.png",
+            "assets/Final Reports/2348053690/Sagittal_T1_2762843442/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/10.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/11.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/4.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/5.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/6.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/7.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/8.png",
+            "assets/Final Reports/2348053690/Sagittal_T2_STIR_2189174676/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2348053690/axial_4022536842/13_L2L3.png",
+            "assets/Final Reports/2348053690/axial_4022536842/14_L2L3.png",
+            "assets/Final Reports/2348053690/axial_4022536842/19_L3L4.png",
+            "assets/Final Reports/2348053690/axial_4022536842/23_L4L5.png",
+            "assets/Final Reports/2348053690/axial_4022536842/24_L4L5.png",
+            "assets/Final Reports/2348053690/axial_4022536842/8_L1L2.png",
+            "assets/Final Reports/2348053690/axial_4022536842/9_L1L2.png"
+        ]
+    },
+    "3294654272": {
+        "sagittal_t1": [
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/10.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/11.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/12.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/13.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/14.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/7.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/8.png",
+            "assets/Final Reports/3294654272/Sagittal_T1_1661929179/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/10.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/11.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/12.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/13.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/14.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/7.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/8.png",
+            "assets/Final Reports/3294654272/Sagittal_T2_STIR_4147986695/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3294654272/axial_978656468/15_L2L3.png",
+            "assets/Final Reports/3294654272/axial_978656468/23_L3L4.png",
+            "assets/Final Reports/3294654272/axial_978656468/24_L3L4.png",
+            "assets/Final Reports/3294654272/axial_978656468/31_L4L5.png",
+            "assets/Final Reports/3294654272/axial_978656468/8_L1L2.png",
+            "assets/Final Reports/3294654272/axial_978656468/9_L1L2.png"
+        ]
+    },
+    "3110593254": {
+        "sagittal_t1": [
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/10.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/11.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/12.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/13.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/6.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/7.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/8.png",
+            "assets/Final Reports/3110593254/Sagittal_T1_1884537363/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/10.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/11.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/12.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/13.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/6.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/7.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/8.png",
+            "assets/Final Reports/3110593254/Sagittal_T2_STIR_441468542/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3110593254/axial_3255409617/13_L2L3.png",
+            "assets/Final Reports/3110593254/axial_3255409617/14_L2L3.png",
+            "assets/Final Reports/3110593254/axial_3255409617/21_L3L4.png",
+            "assets/Final Reports/3110593254/axial_3255409617/22_L3L4.png",
+            "assets/Final Reports/3110593254/axial_3255409617/31_L4L5.png",
+            "assets/Final Reports/3110593254/axial_3255409617/4_L1L2.png",
+            "assets/Final Reports/3110593254/axial_3255409617/5_L1L2.png"
+        ]
+    },
+    "1902377008": {
+        "sagittal_t1": [
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/10.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/11.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/4.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/5.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/6.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/7.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/8.png",
+            "assets/Final Reports/1902377008/Sagittal_T1_2945488620/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/10.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/11.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/4.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/5.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/6.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/7.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/8.png",
+            "assets/Final Reports/1902377008/Sagittal_T2_STIR_3170338765/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1902377008/axial_796789045/11_L4L5.png",
+            "assets/Final Reports/1902377008/axial_796789045/12_L5S1.png",
+            "assets/Final Reports/1902377008/axial_796789045/17_L3L4.png",
+            "assets/Final Reports/1902377008/axial_796789045/23_L2L3.png",
+            "assets/Final Reports/1902377008/axial_796789045/29_L2L3.png",
+            "assets/Final Reports/1902377008/axial_796789045/6_L5S1.png"
+        ]
+    },
+    "2558531992": {
+        "sagittal_t1": [
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/10.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/11.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/12.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/13.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/6.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/7.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/8.png",
+            "assets/Final Reports/2558531992/Sagittal_T1_1039313469/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/10.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/11.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/12.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/13.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/6.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/7.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/8.png",
+            "assets/Final Reports/2558531992/Sagittal_T2_STIR_3459283447/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2558531992/axial_1139384644/14_L2L3.png",
+            "assets/Final Reports/2558531992/axial_1139384644/22_L3L4.png",
+            "assets/Final Reports/2558531992/axial_1139384644/29_L4L5.png",
+            "assets/Final Reports/2558531992/axial_1139384644/30_L4L5.png",
+            "assets/Final Reports/2558531992/axial_1139384644/5_L1L2.png"
+        ]
+    },
+    "3163594538": {
+        "sagittal_t1": [
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/10.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/11.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/12.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/5.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/6.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/7.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/8.png",
+            "assets/Final Reports/3163594538/Sagittal_T1_15983577/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/10.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/11.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/12.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/5.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/6.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/7.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/8.png",
+            "assets/Final Reports/3163594538/Sagittal_T2_STIR_2752448967/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3163594538/axial_294771064/14_L2L3.png",
+            "assets/Final Reports/3163594538/axial_294771064/19_L3L4.png",
+            "assets/Final Reports/3163594538/axial_294771064/24_L4L5.png",
+            "assets/Final Reports/3163594538/axial_294771064/8_L1L2.png"
+        ]
+    },
+    "1752398473": {
+        "sagittal_t1": [
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/10.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/3.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/4.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/5.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/6.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/7.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/8.png",
+            "assets/Final Reports/1752398473/Sagittal_T1_2939979820/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/10.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/3.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/4.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/5.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/6.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/7.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/8.png",
+            "assets/Final Reports/1752398473/Sagittal_T2_STIR_3714352474/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1752398473/axial_302179181/15_L3L4.png",
+            "assets/Final Reports/1752398473/axial_302179181/21_L2L3.png",
+            "assets/Final Reports/1752398473/axial_302179181/3_L5S1.png",
+            "assets/Final Reports/1752398473/axial_302179181/9_L4L5.png"
+        ]
+    },
+    "473465726": {
+        "sagittal_t1": [
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/10.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/11.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/12.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/13.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/6.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/7.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/8.png",
+            "assets/Final Reports/473465726/Sagittal_T1_2791294349/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/10.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/11.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/12.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/13.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/6.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/7.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/8.png",
+            "assets/Final Reports/473465726/Sagittal_T2_STIR_3680564641/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/473465726/axial_1657538009/14_L2L3.png",
+            "assets/Final Reports/473465726/axial_1657538009/15_L2L3.png",
+            "assets/Final Reports/473465726/axial_1657538009/23_L3L4.png",
+            "assets/Final Reports/473465726/axial_1657538009/24_L3L4.png",
+            "assets/Final Reports/473465726/axial_1657538009/34_L4L5.png",
+            "assets/Final Reports/473465726/axial_1657538009/5_L1L2.png",
+            "assets/Final Reports/473465726/axial_1657538009/6_L1L2.png"
+        ]
+    },
+    "3412978571": {
+        "sagittal_t1": [
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/10.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/11.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/12.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/5.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/6.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/7.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/8.png",
+            "assets/Final Reports/3412978571/Sagittal_T1_1155163027/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/10.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/11.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/12.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/5.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/6.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/7.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/8.png",
+            "assets/Final Reports/3412978571/Sagittal_T2_STIR_2102169037/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3412978571/axial_1045277834/14_L4L5.png",
+            "assets/Final Reports/3412978571/axial_1045277834/15_L4L5.png",
+            "assets/Final Reports/3412978571/axial_1045277834/20_L5S1.png",
+            "assets/Final Reports/3412978571/axial_1045277834/3_L2L3.png",
+            "assets/Final Reports/3412978571/axial_1045277834/9_L3L4.png"
+        ]
+    },
+    "1934246813": {
+        "sagittal_t1": [
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/10.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/11.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/4.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/5.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/6.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/7.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/8.png",
+            "assets/Final Reports/1934246813/Sagittal_T1_1748808819/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/10.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/11.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/4.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/5.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/6.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/7.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/8.png",
+            "assets/Final Reports/1934246813/Sagittal_T2_STIR_1281072106/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1934246813/axial_2080216288/13_L4L5.png",
+            "assets/Final Reports/1934246813/axial_2080216288/18_L5S1.png",
+            "assets/Final Reports/1934246813/axial_2080216288/3_L2L3.png",
+            "assets/Final Reports/1934246813/axial_2080216288/8_L3L4.png",
+            "assets/Final Reports/1934246813/axial_2080216288/9_L3L4.png"
+        ]
+    },
+    "377474930": {
+        "sagittal_t1": [
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/10.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/11.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/12.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/5.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/6.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/7.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/8.png",
+            "assets/Final Reports/377474930/Sagittal_T1_3788133615/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/10.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/11.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/12.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/5.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/6.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/7.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/8.png",
+            "assets/Final Reports/377474930/Sagittal_T2_STIR_2668009971/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/377474930/axial_4219904976/11_L4L5.png",
+            "assets/Final Reports/377474930/axial_4219904976/20_L3L4.png",
+            "assets/Final Reports/377474930/axial_4219904976/26_L2L3.png",
+            "assets/Final Reports/377474930/axial_4219904976/6_L5S1.png",
+            "assets/Final Reports/377474930/axial_4219904976/7_L5S1.png"
+        ]
+    },
+    "2509953825": {
+        "sagittal_t1": [
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/10.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/11.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/12.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/13.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/6.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/7.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/8.png",
+            "assets/Final Reports/2509953825/Sagittal_T1_3594374345/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/10.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/11.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/12.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/13.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/6.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/7.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/8.png",
+            "assets/Final Reports/2509953825/Sagittal_T2_STIR_1299186488/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2509953825/axial_2270381566/18_L1L2.png",
+            "assets/Final Reports/2509953825/axial_2270381566/25_L2L3.png",
+            "assets/Final Reports/2509953825/axial_2270381566/26_L2L3.png",
+            "assets/Final Reports/2509953825/axial_2270381566/33_L3L4.png",
+            "assets/Final Reports/2509953825/axial_2270381566/42_L4L5.png"
+        ]
+    },
+    "3808402167": {
+        "sagittal_t1": [
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/10.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/11.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/12.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/5.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/6.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/7.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/8.png",
+            "assets/Final Reports/3808402167/Sagittal_T1_880981020/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/10.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/11.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/12.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/5.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/6.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/7.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/8.png",
+            "assets/Final Reports/3808402167/Sagittal_T2_STIR_2291151159/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3808402167/axial_3904503754/11_L1L2.png",
+            "assets/Final Reports/3808402167/axial_3904503754/18_L2L3.png",
+            "assets/Final Reports/3808402167/axial_3904503754/24_L3L4.png",
+            "assets/Final Reports/3808402167/axial_3904503754/30_L4L5.png",
+            "assets/Final Reports/3808402167/axial_3904503754/36_L5S1.png",
+            "assets/Final Reports/3808402167/axial_2519512892/13_L2L3.png",
+            "assets/Final Reports/3808402167/axial_2519512892/19_L3L4.png",
+            "assets/Final Reports/3808402167/axial_2519512892/23_L4L5.png",
+            "assets/Final Reports/3808402167/axial_2519512892/29_L5S1.png",
+            "assets/Final Reports/3808402167/axial_2519512892/8_L1L2.png"
+        ]
+    },
+    "1906088407": {
+        "sagittal_t1": [
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/10.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/11.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/12.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/13.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/14.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/7.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/8.png",
+            "assets/Final Reports/1906088407/Sagittal_T1_2608001148/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/10.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/11.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/12.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/13.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/14.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/7.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/8.png",
+            "assets/Final Reports/1906088407/Sagittal_T2_STIR_273103917/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1906088407/axial_3578917475/12_L2L3.png",
+            "assets/Final Reports/1906088407/axial_3578917475/13_L2L3.png",
+            "assets/Final Reports/1906088407/axial_3578917475/20_L3L4.png",
+            "assets/Final Reports/1906088407/axial_3578917475/5_L1L2.png",
+            "assets/Final Reports/1906088407/axial_812266495/15_L5S1.png",
+            "assets/Final Reports/1906088407/axial_812266495/8_L4L5.png"
+        ]
+    },
+    "296284854": {
+        "sagittal_t1": [
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/10.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/11.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/12.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/5.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/6.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/7.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/8.png",
+            "assets/Final Reports/296284854/Sagittal_T1_3150350750/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/10.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/11.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/12.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/5.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/6.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/7.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/8.png",
+            "assets/Final Reports/296284854/Sagittal_T2_STIR_739430108/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/296284854/axial_3837318624/10_L3L4.png",
+            "assets/Final Reports/296284854/axial_3837318624/16_L4L5.png",
+            "assets/Final Reports/296284854/axial_3837318624/21_L5S1.png",
+            "assets/Final Reports/296284854/axial_3837318624/22_L5S1.png",
+            "assets/Final Reports/296284854/axial_3837318624/4_L2L3.png"
+        ]
+    },
+    "1618233546": {
+        "sagittal_t1": [
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/10.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/11.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/4.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/5.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/6.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/7.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/8.png",
+            "assets/Final Reports/1618233546/Sagittal_T1_3577431622/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/10.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/11.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/4.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/5.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/6.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/7.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/8.png",
+            "assets/Final Reports/1618233546/Sagittal_T2_STIR_2816981416/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1618233546/axial_3089736222/10_L4L5.png",
+            "assets/Final Reports/1618233546/axial_3089736222/15_L3L4.png",
+            "assets/Final Reports/1618233546/axial_3089736222/21_L2L3.png",
+            "assets/Final Reports/1618233546/axial_3089736222/5_L5S1.png"
+        ]
+    },
+    "1422523769": {
+        "sagittal_t1": [
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/10.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/11.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/4.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/5.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/6.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/7.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/8.png",
+            "assets/Final Reports/1422523769/Sagittal_T1_1844925910/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/10.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/11.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/4.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/5.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/6.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/7.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/8.png",
+            "assets/Final Reports/1422523769/Sagittal_T2_STIR_936512309/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1422523769/axial_393151535/12_L5S1.png",
+            "assets/Final Reports/1422523769/axial_393151535/18_L4L5.png",
+            "assets/Final Reports/1422523769/axial_393151535/3_L2L3.png",
+            "assets/Final Reports/1422523769/axial_393151535/4_L2L3.png",
+            "assets/Final Reports/1422523769/axial_393151535/8_L3L4.png"
+        ]
+    },
+    "945809437": {
+        "sagittal_t1": [
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/10.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/11.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/12.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/13.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/14.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/7.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/8.png",
+            "assets/Final Reports/945809437/Sagittal_T1_1112017435/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/10.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/11.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/12.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/13.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/14.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/7.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/8.png",
+            "assets/Final Reports/945809437/Sagittal_T2_STIR_485388386/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/945809437/axial_2773767514/11_L1L2.png",
+            "assets/Final Reports/945809437/axial_2773767514/19_L2L3.png",
+            "assets/Final Reports/945809437/axial_2773767514/20_L2L3.png",
+            "assets/Final Reports/945809437/axial_2773767514/27_L3L4.png",
+            "assets/Final Reports/945809437/axial_2773767514/33_L4L5.png",
+            "assets/Final Reports/945809437/axial_2773767514/34_L4L5.png"
+        ]
+    },
+    "1378385941": {
+        "sagittal_t1": [
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/10.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/11.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/12.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/13.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/6.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/7.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/8.png",
+            "assets/Final Reports/1378385941/Sagittal_T1_2729244584/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/10.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/11.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/12.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/13.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/6.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/7.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/8.png",
+            "assets/Final Reports/1378385941/Sagittal_T2_STIR_2349024780/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1378385941/axial_2587507993/25_L5S1.png",
+            "assets/Final Reports/1378385941/axial_3875684276/13_L1L2.png",
+            "assets/Final Reports/1378385941/axial_3875684276/22_L2L3.png",
+            "assets/Final Reports/1378385941/axial_3875684276/31_L3L4.png",
+            "assets/Final Reports/1378385941/axial_3875684276/39_L4L5.png",
+            "assets/Final Reports/1378385941/axial_3875684276/40_L4L5.png"
+        ]
+    },
+    "3804922515": {
+        "sagittal_t1": [
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/10.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/11.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/4.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/5.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/6.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/7.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/8.png",
+            "assets/Final Reports/3804922515/Sagittal_T1_1407723257/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/10.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/11.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/4.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/5.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/6.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/7.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/8.png",
+            "assets/Final Reports/3804922515/Sagittal_T2_STIR_1524420711/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3804922515/axial_1539350650/12_L2L3.png",
+            "assets/Final Reports/3804922515/axial_1539350650/19_L3L4.png",
+            "assets/Final Reports/3804922515/axial_1539350650/20_L3L4.png",
+            "assets/Final Reports/3804922515/axial_1539350650/29_L4L5.png",
+            "assets/Final Reports/3804922515/axial_1539350650/4_L1L2.png",
+            "assets/Final Reports/3804922515/axial_1539350650/5_L1L2.png"
+        ]
+    },
+    "2334206006": {
+        "sagittal_t1": [
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/10.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/11.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/12.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/13.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/14.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/7.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/8.png",
+            "assets/Final Reports/2334206006/Sagittal_T1_1261582005/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/10.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/11.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/12.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/13.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/14.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/7.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/8.png",
+            "assets/Final Reports/2334206006/Sagittal_T2_STIR_2561017593/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2334206006/axial_4191635045/13_L1L2.png",
+            "assets/Final Reports/2334206006/axial_4191635045/14_L1L2.png",
+            "assets/Final Reports/2334206006/axial_4191635045/22_L2L3.png",
+            "assets/Final Reports/2334206006/axial_4191635045/31_L3L4.png",
+            "assets/Final Reports/2334206006/axial_4191635045/38_L4L5.png",
+            "assets/Final Reports/2334206006/axial_4191635045/39_L4L5.png"
+        ]
+    },
+    "1546157543": {
+        "sagittal_t1": [
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/10.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/11.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/12.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/5.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/6.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/7.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/8.png",
+            "assets/Final Reports/1546157543/Sagittal_T1_2574594019/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/10.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/11.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/12.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/5.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/6.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/7.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/8.png",
+            "assets/Final Reports/1546157543/Sagittal_T2_STIR_1911155510/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1546157543/axial_829844307/11_L3L4.png",
+            "assets/Final Reports/1546157543/axial_829844307/16_L4L5.png",
+            "assets/Final Reports/1546157543/axial_829844307/17_L4L5.png",
+            "assets/Final Reports/1546157543/axial_829844307/2_L1L2.png",
+            "assets/Final Reports/1546157543/axial_829844307/3_L1L2.png",
+            "assets/Final Reports/1546157543/axial_829844307/6_L2L3.png",
+            "assets/Final Reports/1546157543/axial_829844307/7_L2L3.png"
+        ]
+    },
+    "3331954682": {
+        "sagittal_t1": [
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/10.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/11.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/4.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/5.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/6.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/7.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/8.png",
+            "assets/Final Reports/3331954682/Sagittal_T1_2891110323/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/10.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/11.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/4.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/5.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/6.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/7.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/8.png",
+            "assets/Final Reports/3331954682/Sagittal_T2_STIR_458140319/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3331954682/axial_1627006171/11_L2L3.png",
+            "assets/Final Reports/3331954682/axial_1627006171/12_L2L3.png",
+            "assets/Final Reports/3331954682/axial_1627006171/19_L3L4.png",
+            "assets/Final Reports/3331954682/axial_1627006171/20_L3L4.png",
+            "assets/Final Reports/3331954682/axial_1627006171/28_L4L5.png",
+            "assets/Final Reports/3331954682/axial_1627006171/29_L4L5.png",
+            "assets/Final Reports/3331954682/axial_1627006171/4_L1L2.png"
+        ]
+    },
+    "1900598881": {
+        "sagittal_t1": [
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/10.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/11.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/12.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/5.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/6.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/7.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/8.png",
+            "assets/Final Reports/1900598881/Sagittal_T1_2506414860/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/10.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/11.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/12.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/5.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/6.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/7.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/8.png",
+            "assets/Final Reports/1900598881/Sagittal_T2_STIR_946355577/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1900598881/axial_898969408/13_L4L5.png",
+            "assets/Final Reports/1900598881/axial_898969408/15_L4L5.png",
+            "assets/Final Reports/1900598881/axial_898969408/18_L5S1.png",
+            "assets/Final Reports/1900598881/axial_898969408/19_L5S1.png",
+            "assets/Final Reports/1900598881/axial_898969408/3_L2L3.png",
+            "assets/Final Reports/1900598881/axial_898969408/4_L2L3.png",
+            "assets/Final Reports/1900598881/axial_898969408/8_L3L4.png",
+            "assets/Final Reports/1900598881/axial_898969408/9_L3L4.png"
+        ]
+    },
+    "3952663938": {
+        "sagittal_t1": [
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/10.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/11.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/4.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/5.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/6.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/7.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/8.png",
+            "assets/Final Reports/3952663938/Sagittal_T1_3694476538/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/10.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/11.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/4.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/5.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/6.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/7.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/8.png",
+            "assets/Final Reports/3952663938/Sagittal_T2_STIR_496111837/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3952663938/axial_2014397817/13_L5S1.png",
+            "assets/Final Reports/3952663938/axial_2014397817/3_L3L4.png",
+            "assets/Final Reports/3952663938/axial_2014397817/8_L4L5.png",
+            "assets/Final Reports/3952663938/axial_1701726640/14_L5S1.png",
+            "assets/Final Reports/3952663938/axial_1701726640/4_L3L4.png",
+            "assets/Final Reports/3952663938/axial_1701726640/8_L4L5.png"
+        ]
+    },
+    "2958761272": {
+        "sagittal_t1": [
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/10.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/11.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/4.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/5.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/6.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/7.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/8.png",
+            "assets/Final Reports/2958761272/Sagittal_T1_2703441812/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/10.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/11.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/4.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/5.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/6.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/7.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/8.png",
+            "assets/Final Reports/2958761272/Sagittal_T2_STIR_2383194119/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2958761272/axial_2747965436/13_L3L4.png",
+            "assets/Final Reports/2958761272/axial_2747965436/19_L4L5.png",
+            "assets/Final Reports/2958761272/axial_2747965436/24_L5S1.png",
+            "assets/Final Reports/2958761272/axial_2747965436/4_L2L3.png",
+            "assets/Final Reports/2958761272/axial_2747965436/5_L2L3.png"
+        ]
+    },
+    "2004207983": {
+        "sagittal_t1": [
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/10.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/11.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/12.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/5.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/6.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/7.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/8.png",
+            "assets/Final Reports/2004207983/Sagittal_T1_1938328353/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/10.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/11.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/12.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/5.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/6.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/7.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/8.png",
+            "assets/Final Reports/2004207983/Sagittal_T2_STIR_39127407/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2004207983/axial_3394685819/13_L2L3.png",
+            "assets/Final Reports/2004207983/axial_3394685819/22_L3L4.png",
+            "assets/Final Reports/2004207983/axial_3394685819/32_L4L5.png",
+            "assets/Final Reports/2004207983/axial_3394685819/4_L1L2.png",
+            "assets/Final Reports/2004207983/axial_3394685819/5_L1L2.png"
+        ]
+    },
+    "4111325041": {
+        "sagittal_t1": [
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/10.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/11.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/12.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/5.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/6.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/7.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/8.png",
+            "assets/Final Reports/4111325041/Sagittal_T1_2096841414/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/10.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/11.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/12.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/5.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/6.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/7.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/8.png",
+            "assets/Final Reports/4111325041/Sagittal_T2_STIR_1435140673/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/4111325041/axial_4082350780/15_L4L5.png",
+            "assets/Final Reports/4111325041/axial_4082350780/20_L3L4.png",
+            "assets/Final Reports/4111325041/axial_4082350780/26_L2L3.png",
+            "assets/Final Reports/4111325041/axial_4082350780/27_L2L3.png",
+            "assets/Final Reports/4111325041/axial_4082350780/8_L5S1.png",
+            "assets/Final Reports/4111325041/axial_4082350780/9_L5S1.png"
+        ]
+    },
+    "123154253": {
+        "sagittal_t1": [
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/10.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/11.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/12.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/13.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/14.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/7.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/8.png",
+            "assets/Final Reports/123154253/Sagittal_T1_2257413721/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/10.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/11.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/12.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/13.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/14.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/7.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/8.png",
+            "assets/Final Reports/123154253/Sagittal_T2_STIR_4271884581/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/123154253/axial_1275242196/13_L2L3.png",
+            "assets/Final Reports/123154253/axial_1275242196/20_L3L4.png",
+            "assets/Final Reports/123154253/axial_1275242196/21_L3L4.png",
+            "assets/Final Reports/123154253/axial_1275242196/29_L4L5.png",
+            "assets/Final Reports/123154253/axial_1275242196/5_L1L2.png"
+        ]
+    },
+    "3732083978": {
+        "sagittal_t1": [
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/10.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/11.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/12.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/13.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/6.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/7.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/8.png",
+            "assets/Final Reports/3732083978/Sagittal_T1_2805581475/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/10.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/11.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/12.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/13.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/6.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/7.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/8.png",
+            "assets/Final Reports/3732083978/Sagittal_T2_STIR_3866786024/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3732083978/axial_207721032/11_L2L3.png",
+            "assets/Final Reports/3732083978/axial_207721032/12_L2L3.png",
+            "assets/Final Reports/3732083978/axial_207721032/19_L3L4.png",
+            "assets/Final Reports/3732083978/axial_207721032/28_L4L5.png",
+            "assets/Final Reports/3732083978/axial_207721032/29_L4L5.png",
+            "assets/Final Reports/3732083978/axial_207721032/3_L1L2.png"
+        ]
+    },
+    "3745670967": {
+        "sagittal_t1": [
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/10.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/11.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/12.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/13.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/6.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/7.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/8.png",
+            "assets/Final Reports/3745670967/Sagittal_T1_3700417086/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/10.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/11.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/12.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/13.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/6.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/7.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/8.png",
+            "assets/Final Reports/3745670967/Sagittal_T2_STIR_854357900/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3745670967/axial_615061872/14_L2L3.png",
+            "assets/Final Reports/3745670967/axial_615061872/15_L2L3.png",
+            "assets/Final Reports/3745670967/axial_615061872/24_L3L4.png",
+            "assets/Final Reports/3745670967/axial_615061872/32_L4L5.png",
+            "assets/Final Reports/3745670967/axial_615061872/5_L1L2.png",
+            "assets/Final Reports/3745670967/axial_615061872/7_L1L2.png"
+        ]
+    },
+    "3697763310": {
+        "sagittal_t1": [
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/10.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/11.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/12.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/5.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/6.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/7.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/8.png",
+            "assets/Final Reports/3697763310/Sagittal_T1_320197807/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/10.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/11.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/4.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/5.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/6.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/7.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/8.png",
+            "assets/Final Reports/3697763310/Sagittal_T2_STIR_3535737253/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3697763310/axial_4208790322/10_L3L4.png",
+            "assets/Final Reports/3697763310/axial_4208790322/14_L2L3.png",
+            "assets/Final Reports/3697763310/axial_4208790322/18_L1L2.png",
+            "assets/Final Reports/3697763310/axial_4208790322/1_L5S1.png",
+            "assets/Final Reports/3697763310/axial_4208790322/5_L4L5.png",
+            "assets/Final Reports/3697763310/axial_3123621455/13_L4L5.png",
+            "assets/Final Reports/3697763310/axial_3123621455/18_L3L4.png",
+            "assets/Final Reports/3697763310/axial_3123621455/24_L2L3.png",
+            "assets/Final Reports/3697763310/axial_3123621455/30_L1L2.png",
+            "assets/Final Reports/3697763310/axial_3123621455/8_L5S1.png"
+        ]
+    },
+    "2826913245": {
+        "sagittal_t1": [
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/10.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/11.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/12.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/5.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/6.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/7.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/8.png",
+            "assets/Final Reports/2826913245/Sagittal_T1_819860127/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/10.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/11.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/12.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/5.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/6.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/7.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/8.png",
+            "assets/Final Reports/2826913245/Sagittal_T2_STIR_1525781141/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2826913245/axial_1314230807/14_L3L4.png",
+            "assets/Final Reports/2826913245/axial_1314230807/18_L4L5.png",
+            "assets/Final Reports/2826913245/axial_1314230807/22_L5S1.png",
+            "assets/Final Reports/2826913245/axial_1314230807/3_L1L2.png",
+            "assets/Final Reports/2826913245/axial_1314230807/8_L2L3.png",
+            "assets/Final Reports/2826913245/axial_3611195724/13_L1L2.png",
+            "assets/Final Reports/2826913245/axial_3611195724/22_L2L3.png",
+            "assets/Final Reports/2826913245/axial_3611195724/31_L3L4.png",
+            "assets/Final Reports/2826913245/axial_3611195724/39_L4L5.png",
+            "assets/Final Reports/2826913245/axial_3611195724/45_L5S1.png"
+        ]
+    },
+    "296083289": {
+        "sagittal_t1": [
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/10.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/11.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/4.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/5.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/6.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/7.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/8.png",
+            "assets/Final Reports/296083289/Sagittal_T1_4018539829/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/10.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/11.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/4.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/5.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/6.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/7.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/8.png",
+            "assets/Final Reports/296083289/Sagittal_T2_STIR_578994413/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/296083289/axial_1686965685/12_L4L5.png",
+            "assets/Final Reports/296083289/axial_1686965685/13_L4L5.png",
+            "assets/Final Reports/296083289/axial_1686965685/17_L5S1.png",
+            "assets/Final Reports/296083289/axial_1686965685/18_L5S1.png",
+            "assets/Final Reports/296083289/axial_1686965685/3_L2L3.png",
+            "assets/Final Reports/296083289/axial_1686965685/4_L2L3.png",
+            "assets/Final Reports/296083289/axial_1686965685/9_L3L4.png"
+        ]
+    },
+    "2139209036": {
+        "sagittal_t1": [
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/10.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/11.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/12.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/5.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/6.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/7.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/8.png",
+            "assets/Final Reports/2139209036/Sagittal_T1_2276017852/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/10.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/11.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/12.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/5.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/6.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/7.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/8.png",
+            "assets/Final Reports/2139209036/Sagittal_T2_STIR_504942023/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2139209036/axial_678474176/13_L3L4.png",
+            "assets/Final Reports/2139209036/axial_678474176/18_L4L5.png",
+            "assets/Final Reports/2139209036/axial_678474176/3_L1L2.png",
+            "assets/Final Reports/2139209036/axial_678474176/8_L2L3.png",
+            "assets/Final Reports/2139209036/axial_678474176/9_L2L3.png"
+        ]
+    },
+    "959290081": {
+        "sagittal_t1": [
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/10.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/11.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/12.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/13.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/14.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/15.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/16.png",
+            "assets/Final Reports/959290081/Sagittal_T1_625564954/17.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/10.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/11.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/12.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/13.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/14.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/15.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/16.png",
+            "assets/Final Reports/959290081/Sagittal_T2_STIR_2442517942/17.png"
+        ],
+        "axial": [
+            "assets/Final Reports/959290081/axial_2520054905/10_L2L3.png",
+            "assets/Final Reports/959290081/axial_2520054905/11_L2L3.png",
+            "assets/Final Reports/959290081/axial_2520054905/14_L3L4.png",
+            "assets/Final Reports/959290081/axial_2520054905/15_L3L4.png",
+            "assets/Final Reports/959290081/axial_2520054905/18_L4L5.png",
+            "assets/Final Reports/959290081/axial_2520054905/19_L4L5.png",
+            "assets/Final Reports/959290081/axial_2520054905/6_L1L2.png"
+        ]
+    },
+    "2991382385": {
+        "sagittal_t1": [
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/10.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/11.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/12.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/13.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/6.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/7.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/8.png",
+            "assets/Final Reports/2991382385/Sagittal_T1_3193517994/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/10.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/11.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/12.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/13.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/6.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/7.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/8.png",
+            "assets/Final Reports/2991382385/Sagittal_T2_STIR_1437329775/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2991382385/axial_332076855/11_L1L2.png",
+            "assets/Final Reports/2991382385/axial_332076855/17_L2L3.png",
+            "assets/Final Reports/2991382385/axial_332076855/23_L3L4.png",
+            "assets/Final Reports/2991382385/axial_332076855/24_L3L4.png",
+            "assets/Final Reports/2991382385/axial_332076855/29_L4L5.png"
+        ]
+    },
+    "2368501770": {
+        "sagittal_t1": [
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/10.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/11.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/4.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/5.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/6.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/7.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/8.png",
+            "assets/Final Reports/2368501770/Sagittal_T1_1330041917/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/10.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/11.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/4.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/5.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/6.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/7.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/8.png",
+            "assets/Final Reports/2368501770/Sagittal_T2_STIR_1298271549/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2368501770/axial_1627078094/13_L3L4.png",
+            "assets/Final Reports/2368501770/axial_1627078094/19_L4L5.png",
+            "assets/Final Reports/2368501770/axial_1627078094/3_L1L2.png",
+            "assets/Final Reports/2368501770/axial_1627078094/4_L1L2.png",
+            "assets/Final Reports/2368501770/axial_1627078094/8_L2L3.png",
+            "assets/Final Reports/2368501770/axial_1627078094/9_L2L3.png"
+        ]
+    },
+    "3664020911": {
+        "sagittal_t1": [
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/10.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/11.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/12.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/5.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/6.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/7.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/8.png",
+            "assets/Final Reports/3664020911/Sagittal_T1_2029261809/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/10.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/11.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/12.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/5.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/6.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/7.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/8.png",
+            "assets/Final Reports/3664020911/Sagittal_T2_STIR_2904379115/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3664020911/axial_66840418/13_L4L5.png",
+            "assets/Final Reports/3664020911/axial_66840418/14_L4L5.png",
+            "assets/Final Reports/3664020911/axial_66840418/25_L3L4.png",
+            "assets/Final Reports/3664020911/axial_66840418/31_L2L3.png",
+            "assets/Final Reports/3664020911/axial_66840418/32_L2L3.png",
+            "assets/Final Reports/3664020911/axial_66840418/7_L5S1.png"
+        ]
+    },
+    "1879696087": {
+        "sagittal_t1": [
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/10.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/11.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/12.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/5.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/6.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/7.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/8.png",
+            "assets/Final Reports/1879696087/Sagittal_T1_3230157587/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/10.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/11.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/12.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/5.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/6.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/7.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/8.png",
+            "assets/Final Reports/1879696087/Sagittal_T2_STIR_2286103847/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1879696087/axial_1359554555/15_L2L3.png",
+            "assets/Final Reports/1879696087/axial_1359554555/16_L2L3.png",
+            "assets/Final Reports/1879696087/axial_1359554555/21_L3L4.png",
+            "assets/Final Reports/1879696087/axial_1359554555/26_L4L5.png",
+            "assets/Final Reports/1879696087/axial_1359554555/9_L1L2.png"
+        ]
+    },
+    "1307819508": {
+        "sagittal_t1": [
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/10.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/11.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/4.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/5.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/6.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/7.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/8.png",
+            "assets/Final Reports/1307819508/Sagittal_T1_194882384/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/10.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/11.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/4.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/5.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/6.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/7.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/8.png",
+            "assets/Final Reports/1307819508/Sagittal_T2_STIR_3916811836/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1307819508/axial_2780551163/13_L3L4.png",
+            "assets/Final Reports/1307819508/axial_2780551163/18_L4L5.png",
+            "assets/Final Reports/1307819508/axial_2780551163/2_L1L2.png",
+            "assets/Final Reports/1307819508/axial_2780551163/3_L1L2.png",
+            "assets/Final Reports/1307819508/axial_2780551163/8_L2L3.png"
+        ]
+    },
+    "638284307": {
+        "sagittal_t1": [
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/10.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/11.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/12.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/13.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/6.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/7.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/8.png",
+            "assets/Final Reports/638284307/Sagittal_T1_2545029910/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/10.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/11.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/12.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/13.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/6.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/7.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/8.png",
+            "assets/Final Reports/638284307/Sagittal_T2_STIR_1283697602/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/638284307/axial_3018926795/10_L2L3.png",
+            "assets/Final Reports/638284307/axial_3018926795/11_L2L3.png",
+            "assets/Final Reports/638284307/axial_3018926795/14_L3L4.png",
+            "assets/Final Reports/638284307/axial_3018926795/15_L3L4.png",
+            "assets/Final Reports/638284307/axial_3018926795/19_L4L5.png",
+            "assets/Final Reports/638284307/axial_3018926795/6_L1L2.png",
+            "assets/Final Reports/638284307/axial_3018926795/7_L1L2.png"
+        ]
+    },
+    "2347300416": {
+        "sagittal_t1": [
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/10.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/11.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/12.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/13.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/14.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/7.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/8.png",
+            "assets/Final Reports/2347300416/Sagittal_T1_3345638844/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/10.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/11.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/12.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/13.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/14.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/7.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/8.png",
+            "assets/Final Reports/2347300416/Sagittal_T2_STIR_4191380163/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2347300416/axial_1339190422/10_L2L3.png",
+            "assets/Final Reports/2347300416/axial_1339190422/11_L2L3.png",
+            "assets/Final Reports/2347300416/axial_1339190422/17_L3L4.png",
+            "assets/Final Reports/2347300416/axial_1339190422/18_L3L4.png",
+            "assets/Final Reports/2347300416/axial_1339190422/26_L4L5.png",
+            "assets/Final Reports/2347300416/axial_1339190422/27_L4L5.png",
+            "assets/Final Reports/2347300416/axial_1339190422/3_L1L2.png",
+            "assets/Final Reports/2347300416/axial_1339190422/4_L1L2.png"
+        ]
+    },
+    "105895264": {
+        "sagittal_t1": [
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/10.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/11.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/12.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/13.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/14.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/7.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/8.png",
+            "assets/Final Reports/105895264/Sagittal_T1_3528018752/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/10.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/11.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/12.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/13.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/14.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/7.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/8.png",
+            "assets/Final Reports/105895264/Sagittal_T2_STIR_1073066831/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/105895264/axial_1796707037/13_L1L2.png",
+            "assets/Final Reports/105895264/axial_1796707037/21_L2L3.png",
+            "assets/Final Reports/105895264/axial_1796707037/28_L3L4.png",
+            "assets/Final Reports/105895264/axial_1796707037/36_L4L5.png",
+            "assets/Final Reports/105895264/axial_1796707037/42_L5S1.png",
+            "assets/Final Reports/105895264/axial_1873322271/13_L1L2.png",
+            "assets/Final Reports/105895264/axial_1873322271/21_L2L3.png",
+            "assets/Final Reports/105895264/axial_1873322271/28_L3L4.png",
+            "assets/Final Reports/105895264/axial_1873322271/35_L4L5.png",
+            "assets/Final Reports/105895264/axial_1873322271/42_L5S1.png"
+        ]
+    },
+    "2758707424": {
+        "sagittal_t1": [
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/10.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/11.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/12.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/13.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/14.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/15.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/8.png",
+            "assets/Final Reports/2758707424/Sagittal_T1_680794441/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/10.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/11.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/12.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/13.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/14.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/15.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/8.png",
+            "assets/Final Reports/2758707424/Sagittal_T2_STIR_2525570429/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2758707424/axial_1024283654/11_L3L4.png",
+            "assets/Final Reports/2758707424/axial_1024283654/12_L3L4.png",
+            "assets/Final Reports/2758707424/axial_1024283654/17_L2L3.png",
+            "assets/Final Reports/2758707424/axial_1024283654/3_L5S1.png",
+            "assets/Final Reports/2758707424/axial_1024283654/7_L4L5.png"
+        ]
+    },
+    "3032490582": {
+        "sagittal_t1": [
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/10.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/3.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/4.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/5.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/6.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/7.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/8.png",
+            "assets/Final Reports/3032490582/Sagittal_T1_826252650/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/10.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/3.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/4.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/5.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/6.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/7.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/8.png",
+            "assets/Final Reports/3032490582/Sagittal_T2_STIR_505130044/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/3032490582/axial_416154330/10_L3L4.png",
+            "assets/Final Reports/3032490582/axial_416154330/14_L2L3.png",
+            "assets/Final Reports/3032490582/axial_416154330/18_L1L2.png",
+            "assets/Final Reports/3032490582/axial_416154330/2_L5S1.png",
+            "assets/Final Reports/3032490582/axial_416154330/7_L4L5.png",
+            "assets/Final Reports/3032490582/axial_1480090009/14_L4L5.png",
+            "assets/Final Reports/3032490582/axial_1480090009/21_L3L4.png",
+            "assets/Final Reports/3032490582/axial_1480090009/29_L2L3.png",
+            "assets/Final Reports/3032490582/axial_1480090009/37_L1L2.png",
+            "assets/Final Reports/3032490582/axial_1480090009/8_L5S1.png"
+        ]
+    },
+    "329807127": {
+        "sagittal_t1": [
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/10.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/11.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/12.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/13.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/6.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/7.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/8.png",
+            "assets/Final Reports/329807127/Sagittal_T1_386603676/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/10.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/11.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/12.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/13.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/6.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/7.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/8.png",
+            "assets/Final Reports/329807127/Sagittal_T2_STIR_4192978228/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/329807127/axial_1404320608/20_L1L2.png",
+            "assets/Final Reports/329807127/axial_1404320608/21_L1L2.png",
+            "assets/Final Reports/329807127/axial_1404320608/28_L2L3.png",
+            "assets/Final Reports/329807127/axial_1404320608/29_L2L3.png",
+            "assets/Final Reports/329807127/axial_1404320608/38_L3L4.png",
+            "assets/Final Reports/329807127/axial_1404320608/39_L3L4.png",
+            "assets/Final Reports/329807127/axial_1404320608/48_L4L5.png"
+        ]
+    },
+    "1354411109": {
+        "sagittal_t1": [
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/10.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/11.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/12.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/13.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/6.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/7.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/8.png",
+            "assets/Final Reports/1354411109/Sagittal_T1_1001602554/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/10.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/11.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/12.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/13.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/6.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/7.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/8.png",
+            "assets/Final Reports/1354411109/Sagittal_T2_STIR_3679776577/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1354411109/axial_1787804538/13_L3L4.png",
+            "assets/Final Reports/1354411109/axial_1787804538/18_L4L5.png",
+            "assets/Final Reports/1354411109/axial_1787804538/23_L5S1.png",
+            "assets/Final Reports/1354411109/axial_1787804538/3_L1L2.png",
+            "assets/Final Reports/1354411109/axial_1787804538/8_L2L3.png",
+            "assets/Final Reports/1354411109/axial_963348196/12_L1L2.png",
+            "assets/Final Reports/1354411109/axial_963348196/19_L2L3.png",
+            "assets/Final Reports/1354411109/axial_963348196/26_L3L4.png",
+            "assets/Final Reports/1354411109/axial_963348196/33_L4L5.png",
+            "assets/Final Reports/1354411109/axial_963348196/40_L5S1.png"
+        ]
+    },
+    "2328543636": {
+        "sagittal_t1": [
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/10.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/11.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/12.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/5.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/6.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/7.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/8.png",
+            "assets/Final Reports/2328543636/Sagittal_T1_486167376/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/10.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/11.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/12.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/5.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/6.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/7.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/8.png",
+            "assets/Final Reports/2328543636/Sagittal_T2_STIR_2916062298/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/2328543636/axial_3499907699/14_L2L3.png",
+            "assets/Final Reports/2328543636/axial_3499907699/15_L2L3.png",
+            "assets/Final Reports/2328543636/axial_3499907699/20_L3L4.png",
+            "assets/Final Reports/2328543636/axial_3499907699/24_L4L5.png",
+            "assets/Final Reports/2328543636/axial_3499907699/9_L1L2.png"
+        ]
+    },
+    "1217004843": {
+        "sagittal_t1": [
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/10.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/11.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/12.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/13.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/14.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/7.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/8.png",
+            "assets/Final Reports/1217004843/Sagittal_T1_799439424/9.png"
+        ],
+        "sagittal_t2": [
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/10.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/11.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/12.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/13.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/14.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/7.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/8.png",
+            "assets/Final Reports/1217004843/Sagittal_T2_STIR_1409757990/9.png"
+        ],
+        "axial": [
+            "assets/Final Reports/1217004843/axial_29714163/10_L2L3.png",
+            "assets/Final Reports/1217004843/axial_29714163/15_L3L4.png",
+            "assets/Final Reports/1217004843/axial_29714163/19_L4L5.png",
+            "assets/Final Reports/1217004843/axial_29714163/7_L1L2.png"
+        ]
+    }
+}

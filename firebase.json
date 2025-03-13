@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "spinalis-dxgen",
+          "configurations": {
+            "web": "1:256567634042:web:2b9433f2c26f5a5df2f3c3"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
