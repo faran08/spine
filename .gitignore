@@ -11,6 +11,11 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+firebase.json
+firestore.rules
+firestore.indexes.json
+storage.rules
+firebase-debug.log
 
 # IntelliJ related
 *.iml
